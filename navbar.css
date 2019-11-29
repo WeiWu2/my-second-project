@@ -1,0 +1,28 @@
+.brand-text, .brand-text:hover
+{
+    color:aqua;
+}
+
+.navbartext{
+
+    color:black;
+}
+@media(max-width:768px)
+{
+    .unstick{
+        position: relative;
+        display:flex;
+    }
+    .fix{
+        flex-direction: row;
+        width:100%;
+    }
+    .buttonsfix{
+       margin-top: 0px !important;
+        
+    }
+  
+}
+
+
+
